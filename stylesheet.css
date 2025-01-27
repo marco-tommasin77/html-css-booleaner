@@ -16,3 +16,21 @@ body {
     span {
         background-color: brown;
     }
+
+    /* fourth section, the table */
+    
+    .blue{
+        color: white;
+        background-color: blue;
+    }
+
+    .lightblue{
+        color:black;
+        background-color: lightblue;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    .normal{
+        color: black;
+    }
