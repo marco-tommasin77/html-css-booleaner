@@ -1,0 +1,14 @@
+
+<!-- in theory this is the font for the document -->
+body {
+    font-family: Georgia;
+    backround-color : rgb(255,255,255);
+
+}
+<!-- in theory should be the modified first logo ( the booleans) -->
+
+#logo{
+   300px;
+   400px;
+   backround-color: rgba (0,0,0,0,0)
+}
