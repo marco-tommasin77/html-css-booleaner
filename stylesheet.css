@@ -1,14 +1,12 @@
 
-<!-- in theory this is the font for the document -->
+/* fi */
 body {
     font-family: Georgia;
-    backround-color : rgb(255,255,255);
+    background-color : rgby(255,255,255,);
 
 }
-<!-- in theory should be the modified first logo ( the booleans) -->
+/* immagine logo e sfondo, dimensioni non corrette da rivedere*/
+    #logo{widht: 50px;height: 50px; background-image: url("img/pattern.png");
 
-#logo{
-   300px;
-   400px;
-   backround-color: rgba(0,0,0,0,0);
-}
+    }
+
