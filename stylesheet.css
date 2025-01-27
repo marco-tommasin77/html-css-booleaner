@@ -34,3 +34,20 @@ body {
     .normal{
         color: black;
     }
+
+    /* footer */
+
+    h3{
+        color: dimgray;
+    }
+
+    #footer1{
+        background-image: url("img/monitor.jpg");
+        background-repeat: no-repeat;
+        color: white;
+    }
+    #footer2{
+        background-image: url("img/graph.jpg");
+        background-repeat: no-repeat;
+        color: white;
+    }
