@@ -7,6 +7,7 @@ body {
 }
 /* immagine logo e sfondo, dimensioni non corrette da rivedere*/
     #logo{widht: 50px;height: 50px; background-image: url("img/pattern.png");
+                                   
                                     background-size: cover;
 
     }
